@@ -31,6 +31,11 @@ Los profesores tienen acceso a un panel exclusivo donde pueden:
 - **Gestionar Alumnos**: Añadir, ver y eliminar alumnos de la cátedra (mediante Nombre y Email).
 - **Acceder a Funcionalidades Exclusivas**: Los profesores tienen control sobre los recursos y actividades de la cátedra.
 
+El profesor puede acceder a su panel con:
+
+admin@gmail.com
+admin
+
 ### Acceso del Alumno
 
 Una vez añadido por un profesor, el alumno puede acceder a:
