@@ -42,36 +42,27 @@ Una vez añadido por un profesor, el alumno puede acceder a:
 
 ---
 
-## Pasos para Instalar y Correr
+## Pasos para Instalar y correr el backend
 
-### 1. Preparación Previa
-
-Asegúrate de tener instalado lo siguiente:
-
-- **Node.js** (incluye npm)
-- **MongoDB**
-
-### 2. Backend (NestJS)
+### 1. Backend (NestJS)
 
 Clona el repositorio del backend y sigue los pasos:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO_BACKEND>
-cd <CARPETA_DEL_BACKEND>
+git clone <https://github.com/MatiSancassani/CatedraIF/tree/main/backend>
+cd <backend>
 npm install
 npm run start
 ```
-### Pasos para Instalar y Correr
-
-Sigue estos pasos para poner en marcha el frontend de la aplicación.
+### Pasos para Instalar y correr el frontend
 
 ## 1. Clonar el Repositorio
 
-Primero, clona el repositorio del frontend:
+Clona el repositorio del frontend:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO_FRONTEND>
-cd <CARPETA_DEL_FRONTEND>
+git clone <https://github.com/MatiSancassani/CatedraIF/tree/main/frontend>
+cd <frontend>
 npm install
 npm run dev
 ```
